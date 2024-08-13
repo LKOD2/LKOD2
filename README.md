@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LKOD a junior programmer from chile
-- 👀 I’m interested in learning back-end and java
+- 👋 Hi, I’m @LKOD a developer from chile
 - 🌱 I’m currently studying to be a software engineer
 
 <!---
