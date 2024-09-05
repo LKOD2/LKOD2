@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LKOD a developer from chile
+- 👋 Hi, I’m Diego a developer from chile
 - 🎓 I’m currently studying to be a software engineer
 
 <!---
