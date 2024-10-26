@@ -34,14 +34,18 @@ Soy un **Desarrollador Full Stack** con experiencia en el desarrollo de aplicaci
     ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 📊 Lenguajes Más Usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lkod2&layout=compact&theme=radical)
+
 ## 📈 Mis Estadísticas
 
-![LKOD2](https://github-readme-stats.vercel.app/api?username=LKOD2&show_icons=true&theme=radical)
-
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=LKOD2&show_icons=true&theme=radical)
+<!--
 ## 📫 Conéctate Conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
 - 🌐 [Tu Sitio Web o Blog](https://www.tu-sitio.com)
 
-
-Gracias por visitar mi perfil, ¡espero que encuentres algo interesante aquí!
+-->
+Gracias por visitar mi perfil
