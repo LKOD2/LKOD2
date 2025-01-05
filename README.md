@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy lkod
 
-Soy un **Desarrollador Full Stack** con experiencia en el desarrollo de aplicaciones web, enfocado en crear soluciones eficientes y bien estructuradas. Me gusta explorar nuevas tecnologías, colaborar en proyectos interesantes y mejorar continuamente mis habilidades. Bienvenido a mi perfil de GitHub, ¡aquí encontrarás algunos de mis proyectos!
+Soy un Desarrollador entusiasta que ama escribir codigo. Bienvenido a mi perfil de GitHub, ¡aquí encontrarás algunos de mis proyectos!
 
 ## 🚀 Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo **arquitecturas de software** y mejorando mis habilidades en **React** y **Django**
+- 🌱 Actualmente estoy aprendiendo **Java** y mejorando mis habilidades en **React** y **Django**
 - 💼 Trabajo en proyectos independientes de desarrollo web, construyendo aplicaciones con tecnologías como **React** y **Django**
-- 🧠 Me interesa especialmente **la arquitectura de software**, el **desarrollo backend** y **mejoras de rendimiento**
+- 🧠 Me interesa especialmente el **desarrollo backend** y **desarrollo móvil**
 
 ## 🛠️ Tecnologías y Herramientas
 
