@@ -4,7 +4,6 @@ Soy un Desarrollador entusiasta que ama escribir codigo. Bienvenido a mi perfil 
 
 ## 🚀 Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo **Java** y mejorando mis habilidades en **React** y **Django**
 - 💼 Trabajo en proyectos independientes de desarrollo web, construyendo aplicaciones con tecnologías como **React** y **Django**
 - 🧠 Me interesa especialmente el **desarrollo backend** y **desarrollo móvil**
 
