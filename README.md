@@ -21,7 +21,7 @@ Soy un Desarrollador entusiasta que ama escribir codigo. Bienvenido a mi perfil 
     ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 - **DevOps y Herramientas de Automatización:**
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  <!-- - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) -->
     ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 - **Bases de Datos:**
